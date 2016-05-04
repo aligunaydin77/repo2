@@ -1,5 +1,5 @@
 package test.it;
-
+// baa
 public class Bas implements Singer {
 
 	@Override
